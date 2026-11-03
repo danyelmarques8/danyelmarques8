@@ -1,16 +1,23 @@
-## Hi there 👋
+# Danyel Marques
+**Analista de IAM | Governança de Identidades, RBAC e SoD**
 
-<!--
-**danyelmarques8/danyelmarques8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atuo há mais de 6 anos com Identity and Access Management: ciclo de vida de
+identidades (JML), revisões de acesso (UAR), Segregação de Funções e conformidade
+SOX. Aqui eu publico projetos de laboratório para transformar governança em
+automação.
 
-Here are some ideas to get you started:
+## Em foco agora
+- Microsoft SC-300 (Entra ID)
+- SQL aplicado a auditoria de acessos
+- Python e Microsoft Graph API (próxima etapa)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+Active Directory · Microsoft Entra ID · PowerShell · SQL · RBAC · SoD · SAML/SSO (conceitos)
+
+## Projetos
+- **iam-ad-audit-powershell**: relatórios de auditoria de AD em laboratório
+- **iam-sql-audit-queries**: consultas SQL para detectar conflitos de SoD e acessos órfãos
+- **iam-sod-matrix-template**: modelo genérico de matriz de SoD (dados fictícios)
+
+## Contato
+[LinkedIn](https://linkedin.com/in/danyelmam)
