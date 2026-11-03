@@ -15,6 +15,8 @@ automação.
 Active Directory · Microsoft Entra ID · PowerShell · SQL · RBAC · SoD · SAML/SSO (conceitos)
 
 ## Projetos
+
+Em construção.
 - **iam-ad-audit-powershell**: relatórios de auditoria de AD em laboratório
 - **iam-sql-audit-queries**: consultas SQL para detectar conflitos de SoD e acessos órfãos
 - **iam-sod-matrix-template**: modelo genérico de matriz de SoD (dados fictícios)
