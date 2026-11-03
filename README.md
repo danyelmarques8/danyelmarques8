@@ -1,7 +1,7 @@
 # Danyel Marques
 **Analista de IAM | Governança de Identidades, RBAC e SoD**
 
-Atuo há mais de 6 anos com Identity and Access Management: ciclo de vida de
+Atuo a quase 6 anos com Identity and Access Management: ciclo de vida de
 identidades (JML), revisões de acesso (UAR), Segregação de Funções e conformidade
 SOX. Aqui eu publico projetos de laboratório para transformar governança em
 automação.
