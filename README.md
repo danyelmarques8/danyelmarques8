@@ -12,7 +12,7 @@ automação.
 - Python e Microsoft Graph API (próxima etapa)
 
 ## Stack
-Active Directory · Microsoft Entra ID · PowerShell · SQL · RBAC · SoD · SAML/SSO (conceitos)
+Active Directory · Microsoft Entra ID · PowerShell · SQL · RBAC · SoD
 
 ## Projetos
 
